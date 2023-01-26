@@ -11,29 +11,35 @@
   <img src="https://github-profile-trophy.vercel.app/?username=roumamimohammed&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>  
 
-### Main skills:
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+<div align="center">   
+<a href=https://www.linkedin.com/in/mohammed-roumami" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%2300ccff?style=for-the-badge&logo=linkedin&logoColor=white"</a
+<a href="https://github.com/roumamimohammed" target="_blank"><img src="https://img.shields.io/badge/-github-%23000000?style=for-the-badge&logo=github&logoColor=white"</a>
+</div>
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+##  Langages de programmation
+![ PHP ](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![ JavaScript ](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![ HTML5 ](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![ CSS3 ](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+##  Frameworks, plateformes et bibliothèques
+![ Bootstrap ](https://img.shields.io/badge/bootstrap-blueviolet.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ Mysql ](https://img.shields.io/badge/Mysql-blue.svg?style=for-the-badge&logo=Mysql&logoColor=white)
+![ UML ](https://img.shields.io/badge/UML-red.svg?style=for-the-badge&logo=UML&logoColor=white)
+![ MVC ](https://img.shields.io/badge/MVC-lightgrey.svg?style=for-the-badge&logo=MVC&logoColor=white)
+<!-- ![Réagir](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![webpack](https://badges.aleen42.com/src/webpack.svg)
+![npm](https://badges.aleen42.com/src/npm.svg) -->
+##  IDE/Éditeurs
+![ VSCode ](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) -->
+##  Conception
+![ Figma ](https://img.shields.io/badge/figma-orange?style=for-the-badge&logo=figma&logoColor=white)
+##  Contrôle des versions
+![ Git ](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![ GitHub ](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+<!-- ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash) -->
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{roumamimohammed}/count.svg" /></p> 
