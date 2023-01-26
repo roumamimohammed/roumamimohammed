@@ -12,7 +12,7 @@
 </p>  
 
 <div align="center">   
-<a href=https://www.linkedin.com/in/mohammed-roumami" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%2300ccff?style=for-the-badge&logo=linkedin&logoColor=white"</a
+<a href=[https://www.linkedin.com/in/mohammed-roumami](https://www.linkedin.com/in/mohammed-roumami/)" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%2300ccff?style=for-the-badge&logo=linkedin&logoColor=white"</a
 <a href="https://github.com/roumamimohammed" target="_blank"><img src="https://img.shields.io/badge/-github-%23000000?style=for-the-badge&logo=github&logoColor=white"</a>
 </div>
 
